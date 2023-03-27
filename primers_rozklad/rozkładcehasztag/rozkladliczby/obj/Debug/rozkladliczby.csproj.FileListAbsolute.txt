@@ -1,0 +1,8 @@
+C:\Users\48601\source\repos\rozkladliczby\rozkladliczby\bin\Debug\rozkladliczby.exe.config
+C:\Users\48601\source\repos\rozkladliczby\rozkladliczby\bin\Debug\rozkladliczby.exe
+C:\Users\48601\source\repos\rozkladliczby\rozkladliczby\bin\Debug\rozkladliczby.pdb
+C:\Users\48601\source\repos\rozkladliczby\rozkladliczby\obj\Debug\rozkladliczby.csproj.AssemblyReference.cache
+C:\Users\48601\source\repos\rozkladliczby\rozkladliczby\obj\Debug\rozkladliczby.csproj.SuggestedBindingRedirects.cache
+C:\Users\48601\source\repos\rozkladliczby\rozkladliczby\obj\Debug\rozkladliczby.csproj.CoreCompileInputs.cache
+C:\Users\48601\source\repos\rozkladliczby\rozkladliczby\obj\Debug\rozkladliczby.exe
+C:\Users\48601\source\repos\rozkladliczby\rozkladliczby\obj\Debug\rozkladliczby.pdb
